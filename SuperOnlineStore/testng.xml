@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="OnlineStore">
+  <test name="Test">
+    <classes>
+      <class name="org.onlinestore.TestScripts.TestScript_01"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
